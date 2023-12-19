@@ -19,7 +19,7 @@ I am a penultimate Computational Biology undergraduate at the National Universit
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="aws" width="75" height="75"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="55" height="55"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="75" height="75"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="65" height="65"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="55" height="55"/>&nbsp;
 </p>
 
 ## 📧 Contact me
@@ -27,4 +27,9 @@ I am a penultimate Computational Biology undergraduate at the National Universit
   <a href="https://www.linkedin.com/in/ongminxian">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</div>
+
+## 👨‍💻 GitHub/Coding Statistics
+<div align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api?username=OngMinXian&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=Wilson's%20GitHub%20Stats" /></a>
 </div>
