@@ -28,10 +28,3 @@ I am a penultimate Computational Biology undergraduate at the National Universit
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
-
-## 👨‍💻 GitHub/Coding Statistics
-<div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=OngMinXian&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1"/>
-  </a>
-</div>
