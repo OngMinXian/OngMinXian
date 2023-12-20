@@ -27,4 +27,7 @@ I am a penultimate Computational Biology undergraduate at the National Universit
   <a href="https://www.linkedin.com/in/ongminxian">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="mailto:ongminxian999@gmail.com">
+    <img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
